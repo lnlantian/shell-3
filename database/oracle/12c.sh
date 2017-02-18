@@ -71,7 +71,6 @@ EOF
 #export NLS_LANG="TRADITIONAL CHINESE_TAIWAN.ZHT16MSWIN950"
 #export NLS_LANG="JAPANESE_JAPAN.WE8MSWIN1252"
 #EOF
-
 cat >> /etc/hosts <<EOF
 
 127.0.0.1 orcl.example.com
